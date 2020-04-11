@@ -1,0 +1,6 @@
+framework module VPKitMaker {
+  umbrella header "VPKitMaker.h"
+
+  export *
+  module * { export * }
+}
